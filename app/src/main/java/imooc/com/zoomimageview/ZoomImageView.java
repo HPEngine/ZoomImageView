@@ -15,7 +15,7 @@ import android.widget.ImageView;
 
 /**
  * Created by hepeng on 2016/4/25.
- * Commited by hepeng on 2016/7/18
+ * Commited by hepeng on 2016/7/18.
  */
 public class ZoomImageView extends ImageView implements ViewTreeObserver.OnGlobalLayoutListener, ScaleGestureDetector.OnScaleGestureListener,View.OnTouchListener {
 
